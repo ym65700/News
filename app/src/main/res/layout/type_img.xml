@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/news_list_item_text_iv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/type_img_title"
+        android:textSize="18.0dip" />
+
+
+    <LinearLayout
+        android:id="@+id/news_horizontal_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/news_list_item_text_iv"
+        android:orientation="horizontal">
+
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/news_list_item_img_one_iv"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1" />
+
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/news_list_item_img_two_iv"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1" />
+
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/news_list_item_img_three_iv"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/News.iml" filepath="$PROJECT_DIR$/News.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Phoenix/Phoenix.iml" filepath="$PROJECT_DIR$/Phoenix/Phoenix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefresh/PullToRefresh.iml" filepath="$PROJECT_DIR$/PullToRefresh/PullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefreshLibrary_Collection/PullToRefreshLibrary_Collection.iml" filepath="$PROJECT_DIR$/PullToRefreshLibrary_Collection/PullToRefreshLibrary_Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabLayout_Lib/TabLayout_Lib.iml" filepath="$PROJECT_DIR$/TabLayout_Lib/TabLayout_Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circlerefreshlayout/circlerefreshlayout.iml" filepath="$PROJECT_DIR$/circlerefreshlayout/circlerefreshlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jellyrefresh/jellyrefresh.iml" filepath="$PROJECT_DIR$/jellyrefresh/jellyrefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material-spinner-1.0.5/material-spinner-1.0.5.iml" filepath="$PROJECT_DIR$/material-spinner-1.0.5/material-spinner-1.0.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/showapi_android_sdk/showapi_android_sdk.iml" filepath="$PROJECT_DIR$/showapi_android_sdk/showapi_android_sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipetorefreshlayoutgoogle/swipetorefreshlayoutgoogle.iml" filepath="$PROJECT_DIR$/swipetorefreshlayoutgoogle/swipetorefreshlayoutgoogle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taurus_flyplane/taurus_flyplane.iml" filepath="$PROJECT_DIR$/taurus_flyplane/taurus_flyplane.iml" />
+    </modules>
+  </component>
+</project>
