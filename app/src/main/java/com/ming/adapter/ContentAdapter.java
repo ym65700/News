@@ -19,6 +19,7 @@ import java.util.List;
 
 /**
  * Created by Administrator on 2016/9/23.
+ * 内容adapter
  */
 public class ContentAdapter extends BaseAdapter {
     private static final int TYPE_BANNER = 0;
